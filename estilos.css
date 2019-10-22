@@ -15,6 +15,7 @@
 	color: #616161;
 	font-size: 9px;
 	font-family: TerpelSans-Bold;
+	
 }
 
 p{
@@ -25,12 +26,12 @@ p{
 
 @font-face {
 	font-family: TerpelSans-Black;
-	src: url(Fuentes/TerpelSans-Black.ttf);
+	src: url(TerpelSans-Black.ttf);
 	
 }
 
 @font-face {
 	font-family: TerpelSans-Bold;
-	src: url(Fuentes/TerpelSans-Bold.ttf);
+	src: url(TerpelSans-Bold.ttf);
 	
 }
